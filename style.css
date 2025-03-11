@@ -56,7 +56,7 @@ body {
     flex-wrap: wrap;
     text-align: center;
     padding: 40px 20px;
-    background: url("/pictures/chitwan-bg.jpg") no-repeat center center/cover;
+    background: url("pictures/chitwan-bg.jpg") no-repeat center center/cover;
     color: white;
     min-height: 50vh; /* Increase height for better display */
 }
